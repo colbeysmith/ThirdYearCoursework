@@ -1,7 +1,7 @@
-#Third Year Coursework
+# Third Year Coursework
 ---
 ## Aims 
-1. Create a Jupyter notebook file that answers the given quetions.
+1. Create a Jupyter Notebook file that answers the given questions.
 2. Combine code and markup cells to indicate questions and answers.
 3. Analyse outputs from calculations.
 ---
@@ -9,9 +9,9 @@
 1. Functionality - has the answer been successfully achieved? For 40%
 2. Originality / Elegance - how efficient is the code, is this the most efficient extraction of information? For 20%
 3. Portability - how easy would it be to reuse the code to answer similar questions with different data? For 10%
-4. Commenting - is the code commented in a way that is understandable and so that someone else could maintain it? For 10%
-5. Interpretation - what do the results mean? Have you understood best practice for analysis? For 10%
-6. Infographic - quality of your infographic and how well it conveys information to lay people for 10%
+4. Commenting - is the code commented in an understandable way so that someone else could maintain it? For 10%
+5. Interpretation - what do the results mean? Have you understood the best practice for analysis? For 10%
+6. Infographic - the quality of your infographic and how well it conveys information to lay people for 10%
 ---
 ## Grade and Feedback
 1. Functionality - 35.5/40
